@@ -1,4 +1,3 @@
 # Biological-Computation-Ex2
-how to rum the program:
-
-dfadf
+## how to rum the program:
+we 
